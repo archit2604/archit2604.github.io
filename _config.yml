@@ -47,18 +47,18 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Control theory
-    image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FControlTheory%2Fcomments%2Ffigtju%2Fthe_map_of_control_theory%2F&psig=AOvVaw1WSoi07BREdLdTXs21GJyL&ust=1609357034700000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi7yKb48-0CFQAAAAAdAAAAABAD
+  - name: Control Theory
+    # image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FControlTheory%2Fcomments%2Ffigtju%2Fthe_map_of_control_theory%2F&psig=AOvVaw1WSoi07BREdLdTXs21GJyL&ust=1609357034700000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi7yKb48-0CFQAAAAAdAAAAABAD
 
   - name: ROS
     web_url: https://www.ros.org/
-    image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fros-spinning-threading-queuing-aac9c0a793f&psig=AOvVaw3UEC__36lA_b86fQaNIzzT&ust=1609356972872000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiWyYf48-0CFQAAAAAdAAAAABAD
+    # image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fros-spinning-threading-queuing-aac9c0a793f&psig=AOvVaw3UEC__36lA_b86fQaNIzzT&ust=1609356972872000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiWyYf48-0CFQAAAAAdAAAAABAD
 
   - name: Autonomous Navigation
-    image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F305922-tesla-remotely-removed-autopilot-features-from-used-model-s-after-audit&psig=AOvVaw30T5d0wrj3xFckHQl90dJt&ust=1609357144104000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj94dr48-0CFQAAAAAdAAAAABAD
+    # image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.extremetech.com%2Fextreme%2F305922-tesla-remotely-removed-autopilot-features-from-used-model-s-after-audit&psig=AOvVaw30T5d0wrj3xFckHQl90dJt&ust=1609357144104000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj94dr48-0CFQAAAAAdAAAAABAD
   
-  - name: Computer Vision
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.skyfilabs.com%2Fimages%2Fblog%2Fwhat-is-computer-vision.webp&imgrefurl=https%3A%2F%2Fwww.skyfilabs.com%2Fblog%2Fwhat-is-computer-vision&tbnid=MC8VVzWkpg630M&vet=12ahUKEwiq57nt-PPtAhXLRCsKHWSWBNQQMygKegUIARDlAQ..i&docid=k0LX2UZPveu-PM&w=779&h=325&q=Computer%20Vision&ved=2ahUKEwiq57nt-PPtAhXLRCsKHWSWBNQQMygKegUIARDlAQ
+  # - name: Computer Vision
+  #   image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.skyfilabs.com%2Fimages%2Fblog%2Fwhat-is-computer-vision.webp&imgrefurl=https%3A%2F%2Fwww.skyfilabs.com%2Fblog%2Fwhat-is-computer-vision&tbnid=MC8VVzWkpg630M&vet=12ahUKEwiq57nt-PPtAhXLRCsKHWSWBNQQMygKegUIARDlAQ..i&docid=k0LX2UZPveu-PM&w=779&h=325&q=Computer%20Vision&ved=2ahUKEwiq57nt-PPtAhXLRCsKHWSWBNQQMygKegUIARDlAQ
 
-  -name: Reinforcement Learning
-   image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftomtaulli%2F2019%2F03%2F02%2Fwhat-you-need-to-know-about-machine-learning%2F&psig=AOvVaw2OU9ExYjZv2QtUb_-zrCGf&ust=1609357283165000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiVi5758-0CFQAAAAAdAAAAABAO
+  # -name: Reinforcement Learning
+  #  image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftomtaulli%2F2019%2F03%2F02%2Fwhat-you-need-to-know-about-machine-learning%2F&psig=AOvVaw2OU9ExYjZv2QtUb_-zrCGf&ust=1609357283165000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiVi5758-0CFQAAAAAdAAAAABAO
