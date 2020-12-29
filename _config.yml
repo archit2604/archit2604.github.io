@@ -28,22 +28,22 @@ projects:
     - archit2604
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: archit-rungta-883156193
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: rungtarchit1
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://archit2604.github.io/
   # youtube: your_username
 
 topics:
