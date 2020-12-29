@@ -27,6 +27,9 @@ projects:
     forks: false
     projects:
     - archit2604
+    - archit2604.github.io
+    - omnibase
+    - PythonRobotics
     # - repo-name
 
 social_media:
