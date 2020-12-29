@@ -23,7 +23,8 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: true
+    archived: false
+    forks: false
     projects:
     - archit2604
     # - repo-name
