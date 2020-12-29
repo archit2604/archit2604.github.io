@@ -24,7 +24,6 @@ projects:
   limit: 9
   exclude:
     archived: true
-    forks: false
     projects:
     - archit2604
     # - repo-name
