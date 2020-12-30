@@ -61,8 +61,8 @@ topics:
   - name: Autonomous Navigation
     image_url: images/An.jpg
   
-  - name: Computer Vision
-    image_url: images/CV.jpeg
+  # - name: Computer Vision
+  #   image_url: images/CV.jpeg
 
-  - name: Reinforcement Learning
-    image_url: images/RL.jpg
+  # - name: Reinforcement Learning
+  #   image_url: images/RL.jpg
